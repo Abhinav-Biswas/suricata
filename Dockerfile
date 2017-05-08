@@ -1,8 +1,8 @@
-# suricata dockerfile by MO
+# suricata dockerfile
 #
-# VERSION 16.10
+
 FROM ubuntu:16.04
-MAINTAINER MO
+MAINTAINER Abhinav
 
 ENV DEBIAN_FRONTEND noninteractive
 
